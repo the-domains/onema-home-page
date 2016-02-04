@@ -1,0 +1,14 @@
+layout_spectrum: 0.5085106
+color:
+  saturation: 0.3723404
+  brandStrength: 0.6234043
+  lightness: 1
+  brandColors:
+    - '#416DB6'
+    - '#04314B'
+    - '#E9D0B3'
+    - '#87AAD0'
+    - '#393839'
+  rhythmicContrast: 0.6148936
+typography_spectrum: 0.6170213
+name: Onema Home Page
